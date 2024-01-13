@@ -2,7 +2,7 @@
 
 ## MSc and Research Assistant at Virginia Tech 💼🎓
 
-Hello there! 👋 I'm **Adeyemi Aina**, a dedicated and passionate developer. I'm deeply invested in using technology to drive impactful changes in our world. My journey in tech has equipped me with a diverse set of skills and knowledge, primarily in the realms of cloud transformation, software engineering, and data analysis.
+Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology to drive positive change. My expertise spans a wide array of technical skills, including proficiency in languages/frameworks such as Python, php, and JavaScript and experience in cloud transformation, software engineering, and data analysis.
 
 ### 🛠️ Technical Skills
 
