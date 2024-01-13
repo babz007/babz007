@@ -14,11 +14,6 @@ Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology 
 - **JavaScript** (Node.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript)
 - **Ruby** (Rails) ![Ruby](https://img.shields.io/badge/-Ruby-orange?style=flat&logo=ruby)
 
-#### Operating Systems
-- Windows ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
-- Linux/UNIX-Bash ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-- MacOS ![MacOS](https://img.shields.io/badge/-MacOS-grey?style=flat&logo=apple)
-
 #### Database and Webserver Administration
 - MySQL/PostgreSQL ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue?style=flat&logo=postgresql)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
@@ -28,5 +23,3 @@ Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology 
 - Google Cloud ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-blue?style=flat&logo=google-cloud)
 - Kubernetes ![Kubernetes](https://img.shields.io/badge/-Kubernetes-lightgrey?style=flat&logo=kubernetes)
 - Docker ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
-
-!
