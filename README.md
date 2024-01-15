@@ -1,8 +1,8 @@
-# Adeyemi Aina 🌟
+# Adeyemi Aina
 
 ## MSc and Research Assistant at Virginia Tech 💼🎓
 
-Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology to drive positive change. My expertise spans a wide array of technical skills, including proficiency in languages/frameworks such as Python, php, and JavaScript and experience in cloud transformation, software engineering, and data analysis.
+Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology to build software solutions. My expertise spans a array of technical and non-technical skills, including proficiency in languages/frameworks such as Python, php, and JavaScript and experience in cloud transformation, software engineering, and data analysis.
 
 ### 🛠️ Technical Skills
 
@@ -13,11 +13,9 @@ Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology 
 - **PHP** (Laravel) ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php)
 - **JavaScript** (Node.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript)
 - **Ruby** (Rails) ![Ruby](https://img.shields.io/badge/-Ruby-orange?style=flat&logo=ruby)
-
 #### Database and Webserver Administration
 - MySQL/PostgreSQL ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue?style=flat&logo=postgresql)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
-
 #### Cloud & Microservices
 - AWS ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
 - Google Cloud ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-blue?style=flat&logo=google-cloud)
