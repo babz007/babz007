@@ -2,11 +2,11 @@
 
 ## MSc and Research Assistant at Virginia Tech 💼🎓
 
-Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology to build software solutions. My expertise spans a array of technical and non-technical skills, including proficiency in languages/frameworks such as Python, php, and JavaScript and experience in cloud transformation, software engineering, and data analysis.
+Hello there! 👋 I'm **Adeyemi Aina**, I'm interested in leveraging technology to build software solutions. My expertise spans an array of technical and non-technical skills, including proficiency in languages/frameworks such as Python, php, and JavaScript and experience in cloud transformation, software engineering, and data analysis.
 
 ### 🛠️ Technical Skills
 
-#### Programming Languages and Frameworks
+#### Languages and Frameworks
 - **Java** (Spring) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 - **C#** ![C#](https://img.shields.io/badge/-CSharp-purple?style=flat&logo=c-sharp)
 - **Python** (Flask, FastAPI) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
