@@ -3,7 +3,7 @@
 - Building software with a smile (and sometimes with a tear).
 - i try to turn ideas into code. i was a Technology consultant for sometime.
 - i am currently in a Masters program @VirginiaTech 💼🎓, building cool stuff
-- 📫 Reach me on: ainababs0[at]gmail.com or (http://people.cs.vt.edu/ainababs0/)
+- 📫 Reach me on: ainababs0[at]gmail.com or ([http://people.cs.vt.edu/ainababs0/](https://babz007.github.io/Adeyemi-Aina))
 
 ### 🛠️ Technical Skills
 - Languages and Frameworks:  ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java) ![C#](https://img.shields.io/badge/-CSharp-purple?style=flat&logo=c-sharp) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php) , ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript), ![Ruby](https://img.shields.io/badge/-Ruby-orange?style=flat&logo=ruby)  
