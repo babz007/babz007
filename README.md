@@ -2,7 +2,7 @@
 
 - Building software with a smile (and sometimes with a tear).
 - i try to turn ideas into code. i was a Technology consultant for sometime.
-- i am currently in a Masters program @VirginiaTech 💼🎓, building cool stuff
+- i recently graduated from a Masters program @VirginiaTech 💼🎓, building cool stuff
 - 📫 Reach me on: ainababs0[at]gmail.com or ([https://babz007.github.io/Adeyemi-Aina](https://babz007.github.io/Adeyemi-Aina))
 
 ### 🛠️ Technical Skills
