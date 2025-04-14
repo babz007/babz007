@@ -2,11 +2,11 @@
 
 👋 Hi there, I’m Adeyemi Aina — a systems engineer, researcher and open-source contributor passionate about building infrastructure that matters.
 
-🎓 I recently earned my M.Sc. in Computer Science from Virginia Tech, where I contributed to national-scale research platforms like OpenDSA and the Electronic Theses & Dissertations system. My work focused on scalable software systems, secure APIs, and AI-enhanced educational technology used by thousands of students and researchers.
+🎓 I recently earned my M.Sc. in Computer Science with distiction from Virginia Tech, where I contributed to national-scale research platforms used by thousands of individuals like OpenDSA, SPLICE catalog, Electronic Theses & Dissertations system, Canvas Instructure LMS, and CodeWorkout. My work focused on scalable software systems, secure APIs, and AI-enhanced educational technology used by thousands of students and researchers.
 
-💡 I specialize in turning impactful ideas into production-ready code — from NLP-based recruitment platforms to large-scale microservice architectures powering digital libraries.
+💡 I specialize in turning impactful ideas into production-ready code — from Ethical A.I models,  NLP-based platforms to large-scale microservice architectures powering digital libraries.
 
-🌍 I've contributed to **20+ open-source projects**, spanning distributed systems, developer tooling, AI ethics, data pipelines, and cloud-native deployments. These projects enable better access to education, more ethical AI design, and scalable infrastructure — all aligned with the U.S. national interest in innovation, education, and cybersecurity.
+🌍 I've contributed to **20+ open-source projects**, spanning distributed systems, developer tooling, AI ethics, data pipelines, and cloud-native deployments. These projects enable better access to education, more ethical AI design, and scalable infrastructure — all aligned with high Impact in innovation, education, and security.
 
 🛠️ Tech Stack: Python, Java, TypeScript, React, Docker, Kubernetes, Flask, LLMs, Neo4j, Elasticsearch, and more.
 
