@@ -1,21 +1,11 @@
 # Adeyemi Aina
 
-👋 Hi there, I’m Adeyemi Aina — a systems engineer, researcher and open-source contributor passionate about building infrastructure that matters.
+👋 Hi
+- Building software with a smile (and sometimes with a tear).
+- i try to turn ideas into code. i was a Technology consultant for sometime.
+- i recently graduated from a Masters program @VirginiaTech 💼🎓, building cool stuff
+- 📫 Reach me on: ainababs0[at]gmail.com or ([https://babz007.github.io/Adeyemi-Aina](https://babz007.github.io/Adeyemi-Aina))
 
-🎓 I recently earned my M.Sc. in Computer Science with distiction from Virginia Tech, where I contributed to national-scale research platforms used by thousands of individuals like OpenDSA, SPLICE catalog, Electronic Theses & Dissertations system, Canvas Instructure LMS, and CodeWorkout. My work focused on scalable software systems, secure APIs, and AI-enhanced educational technology used by thousands of students and researchers.
-
-💡 I specialize in turning impactful ideas into production-ready code — from Ethical A.I models,  NLP-based platforms to large-scale microservice architectures powering digital libraries.
-
-🌍 I've contributed to **20+ open-source projects**, spanning distributed systems, developer tooling, AI ethics, data pipelines, and cloud-native deployments. These projects enable better access to education, more ethical AI design, and scalable infrastructure — all aligned with high Impact in innovation, education, and security.
-
-🛠️ Tech Stack: Python, Java, TypeScript, React, Docker, Kubernetes, Flask, LLMs, Neo4j, Elasticsearch, and more.
-
-🔗 Portfolio & Proof of Work:  
-[🎯 See My Work](https://babz007.github.io/Adeyemi-Aina)  
-[📂 View Contributions](https://github.com/babz007)
-
-📬 Reach me at: ainababs0[at]gmail.com  
-Let’s build something that moves the world forward.
 
 
 ### 🛠️ Technical Skills
